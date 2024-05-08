@@ -1,7 +1,3 @@
-Certainly! Here's a description you can add to your README file on GitHub:
-
----
-
 ## Infix to Postfix Converter
 
 This repository contains a C program that converts infix expressions to postfix expressions. Infix expressions are the standard mathematical expressions we're used to (e.g., `3 + 4 * 2`). Postfix expressions, also known as Reverse Polish Notation (RPN), place the operator after their operands (e.g., `3 4 2 * +`).
